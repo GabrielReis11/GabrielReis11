@@ -1,22 +1,14 @@
-- 👋 Hi, I’m @GabrielReis11 
-  From Brazil, gratuated in mechatronics engineering, I started to study programming language assiduously in 2021. Initially starting with python, I intend to expand my range for mobile and web development. 
+## Olá Sou Gabriel Reis 
+- 👀 Atualmente trabalhando com Front-End
 
-- 👀 I’m interested in: Python; Mobile Development; Web Development; Arduino.
-
-- 🌱 I’m currently learning:
-  Python
-  
-- 💞️ I’m looking to collaborate on:
-  Python;
-  Arduino;
-  ESP 32;
-  IoT.
+- 🌱 Estudando HTML, CSS.
 
 - 📫 How to reach me:
   -e-mail: gabriel.reis98@souunit.com.br
   -twitter: gabriel_reiz
 
-<!---
-GabrielReis11/GabrielReis11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielReis11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielReis11&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
