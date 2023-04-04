@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS.
 
 - 📫 How to reach me:
-  -e-mail: gabriel.reis98@souunit.com.br
+  -e-mail: biel9628@gmail.com
   -twitter: gabriel_reiz
 
 <div>
